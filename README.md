@@ -31,9 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: [Currency Exchange Rate Calculator Website]([https://movie-app-angelique.vercel.app/](https://currency-exchange-calc.vercel.app/))
-
+- Solution URL:
+- Live Site URL: [Currency Exchange Rate Calculator Website](https://currency-exchange-calc.vercel.app/)
 
 ## My process
 
