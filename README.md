@@ -21,17 +21,9 @@ Users should be able to:
 #### - See the real time currency exchange rate
 #### - Automatically see the calculation between two currencies 
 
-
-### Features
-
-
-
-### Project Demo
-[![PROJECT DEMO](image)](vid)
-
 ### Links
 
-- Solution URL:
+- Solution URL: [Currency Exchange Rate Calculator GitHub Solution](https://github.com/MaryAngelique/exchange-rate-calculator)
 - Live Site URL: [Currency Exchange Rate Calculator Website](https://currency-exchange-calc.vercel.app/)
 
 ## My process
